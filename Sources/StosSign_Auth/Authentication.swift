@@ -246,7 +246,7 @@ public final class Authentication {
             "Content-Type": "text/x-xml-plist",
             "X-MMe-Client-Info": anisetteData.deviceDescription,
             "Accept": "*/*",
-            "User-Agent": "AuthKit/1 (Macintosh; OS X 26.6) (com.apple.dt.Xcode/26.0)",
+            "User-Agent": "AuthKit/1 (Macintosh; OS X 27.0) (com.apple.akd/1.0)",
             "Connection": "close"
         ]
         
